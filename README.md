@@ -28,7 +28,7 @@ This repository demonstrates a **Fullstack CRUD Application** that showcases the
 ## Technologies Used
 
 ### Frontend:
-- **ReactJS**: For dynamic UI development.
+- **ReactJS, Tailwind CSS**: For dynamic UI development.
 - **Vanilla JavaScript**: For simpler frontend implementations.
 - **HTML5**, **CSS3**, and **JavaScript**: Core web technologies.
 
@@ -127,11 +127,10 @@ The application follows a standard **three-tier architecture**:
 ## Project Structure
 ```plaintext
 fullstack-crud/
-├── src/                      # Backend Java Spring Boot source code
-├── front-user (react js)/    # ReactJS frontend
-├── front-user (vanilla js)/  # Vanilla JS frontend
-├── pom.xml                   # Maven configuration
-└── README.md                 # Documentation
+├── backend (spring boot)/  # Backend Java Spring Boot source code
+├── frontend (react js)/    # ReactJS frontend
+├── frontend (vanilla js)/  # Vanilla JS frontend
+└── README.md               # Documentation
 ```
 
 ---
